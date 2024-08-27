@@ -7,7 +7,7 @@
 1. **Dashboard Financeiro**
    - Análise detalhada de receitas, despesas e indicadores financeiros.
    - Monitoramento de KPIs financeiros para suporte à gestão estratégica.
-   ![Dashboard Financeiro](dashboard-financeiro/imagens/foto-dashboard-financeiro.png)
+   ![Dashboard Financeiro](Dashboard-Financeiro/imagens/foto-dashboard-financeiro.png)
 
 2. **Dashboard de Produção**
    - Visualização do fluxo de produção, eficiência e controle de qualidade.
