@@ -12,17 +12,17 @@
 2. **Dashboard de Produção**
    - Visualização do fluxo de produção, eficiência e controle de qualidade.
    - Acompanhamento de desempenho por setor e identificação de gargalos.
-   ![Dashboard Financeiro](Dashboard-Producao/imagens/foto-dashboard-producao.png)
+   ![Dashboard Produção](Dashboard-Producao/imagens/foto-dashboard-producao.png)
 
 3. **Dashboard de RH**
    - Gerenciamento de indicadores de recursos humanos como turnover, absenteísmo e headcount.
    - Insights sobre treinamento, desenvolvimento e bem-estar dos colaboradores.
-   ![Dashboard Financeiro](Dashboard-RH/imagens/foto-dashboard-rh.png)
+   ![Dashboard RH](Dashboard-RH/imagens/foto-dashboard-rh.png)
 
 4. **Dashboard de Vendas**
    - Análise de performance de vendas, tendências e comportamento do cliente.
    - Monitoramento de metas e métricas de desempenho por produto e região.
-   ![Dashboard Financeiro](Dashboard-Vendas/imagens/foto-dashboard-vendas.png)
+   ![Dashboard Vendas](Dashboard-Vendas/imagens/foto-dashboard-vendas.png)
 
 ## Como Executar
 
